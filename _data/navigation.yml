@@ -1,0 +1,10 @@
+# 左側主選單架構
+main:
+  - title: "👨‍⚕️ 關於許醫師 (CV)"
+    url: /
+  - title: "🏥 門診與高階諮詢"
+    url: /clinic/
+  - title: "💡 數位處方箋"
+    url: /ebm-hub/
+  - title: "💼 商務與產學合作"
+    url: "https://forms.gle/A51KtVUcTwMXAvTy8"
