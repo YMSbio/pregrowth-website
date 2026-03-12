@@ -22,14 +22,14 @@ read_time: false
 ---
 
 ## 📌 快速導覽 (Navigation)
-* [個人簡歷 (CV)](#-個人簡歷-cv)
-* [🌟 明星系列：流言終結者](#-🌟-明星系列流言終結者)
-* [衛教智庫 (Full Archive)](#-衛教智庫--實證醫學處方箋)
-* [商務合作與門診](#-聯繫與門診預約)
+* [👨‍⚕️ 個人簡歷 (CV)](#cv)
+* [🌟 重點迷思破除：流言終結者](#mythbusters)
+* [💡 FB衛教文章彙整 (Full Archive)](#archive)
+* [🤝 商務合作與門診預約](#contact)
 
 ---
 
-## 👨‍⚕️ 個人簡歷 (CV)
+## 👨‍⚕️ 個人簡歷 (CV){#cv}
 * ### **臨床專業**
 * **臺北醫學大學附設醫院** 兒童內分泌與遺傳 主治醫師 (2026.04-)
 * **敏盛基因體中心** 副主任
@@ -44,13 +44,6 @@ read_time: false
 
 ---
 
-## 📚 學術著作 / 研究
-* **Master's Thesis:** "Genetic Architecture of Body Height in the Taiwan Biobank: A Machine Learning Approach to GWAS in Underrepresented Populations." (2026)
-* **出版專書：** [《長高不長胖：兒童成長專家教你打造身高衝刺基礎與健康體態成長指南》](https://reurl.cc/jQbX9n) (2025)
-* 曾帶領團隊於亞東醫院建立「全外顯子定序 (WES) 臨床送檢流程系統」。
-
----
-
 ## 🎤 媒體與演講
 * **專欄作家：** 《親子天下》特約專欄醫師、2025年度專欄作家。
 * **醫學演講：** 受邀於各大學校/公家單位/科技公司分享兒童與成長內分泌知識。
@@ -58,7 +51,7 @@ read_time: false
 
 ---
 
-## 🌟 明星系列：流言終結者 (MythBusters)
+## 🌟 明星系列：流言終結者 (MythBusters){#mythbusters}
 *這是診間最多家長詢問的迷思系列，讓我們用數據與實證，打破生長的恐懼。*
 
 * [**一張圖破解性早熟飲食迷思**](https://www.facebook.com/grow180/posts/pfbid0Tg2eJYyfagKgkPUFRCUYwfpL6fpd28FmPJDDnLqxXxcsvGrG7m5CqjUqoXaubSqLl)
@@ -69,15 +62,15 @@ read_time: false
 
 ---
 
-## 💡 衛教智庫 ｜ 實證醫學處方箋
-*我將文章重新分類，幫助您從「生命效益」的角度看待成長。*
+## 💡 衛教智庫 ｜ 實證醫學處方箋{#archive}
+*我將文章重新分類，讓我們從對孩子的「生命效益」的角度看待成長。*
 
 * **【精算成長營養】**：[飲食指標分數，你及格了嗎？](https://www.facebook.com/grow180/posts/pfbid0J3eSkKF4Ri32PcQtfbWsb8NNyvdSzJx3yJcghwMfGCQVvWQRp9Q3CTV4H8EXnehul) ｜ [吃對蛋白質，長高不早熟](https://www.facebook.com/grow180/posts/pfbid036QQ3vmvDTQtqycVHxZjfJuKXyNFKydYT1LQuqgLnN9tpJrtBkGX22N3B5xpQFnrKl)
 * **【精準醫療決策】**：[決定身高的基因](https://www.facebook.com/grow180/posts/pfbid02avo4m4nkLGa5T3nCFU6KS1r3uW8zdk4HVk389MpeTLJAjTU8thtY3zCnKyc6qKPel) ｜ [骨齡放射線關鍵大解密](https://www.facebook.com/grow180/posts/pfbid02DNuxjuzhQcQWgQxZYrryX5XTjnpe3fReMeG8iBfZqe93YDjYAQiBzGCzMsfuSZ4Vl)
 * **【心靈與性教育】**：[高矮不是一切：自信建立](https://www.facebook.com/grow180/posts/pfbid0ta1j2zfkF8YpmWqQ5p5rbu5gHVqr8Ki3aiNb1G3Psr13RDFpoKG5JERx5VEUkTN6l) ｜ [好好面對青春期](https://www.facebook.com/grow180/posts/pfbid0PnQVD6sdbusK6zS6wgnvbDRaHUmp9MGujSKGKdfaEDnFGdu9kTUoZDsEvMhfsdBwl)
 
 > **🚀 完整收錄：**
-> **[👉 點此進入「Pregrowth 衛教智庫全目錄」](FBarchive.md)**
+> **[👉 點此進入「Pregrowth FB衛教文章全目錄」](FBarchive.md)**
 
 ---
 
@@ -96,7 +89,7 @@ read_time: false
 
 ---
 
-## 🤝 聯繫與諮詢
+## 🤝 聯繫與諮詢{#contact}
 
 * **臨床門診**：[臺北醫學大學附設醫院 (4/1起)](https://www.tmch.org.tw/)
 * **高階諮詢**：[敏盛哈佛健診診所](https://www.e-ms.com.tw/)
