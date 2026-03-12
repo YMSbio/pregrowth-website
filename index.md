@@ -76,7 +76,7 @@ read_time: false
 
 ## 🤝 聯繫與諮詢 {#contact}
 
-* **臨床門診**：[臺北醫學大學附設醫院 (4/1起)]((https://www.tmuh.org.tw/team/team/04/04/040029)
+* **臨床門診**：[臺北醫學大學附設醫院 (4/1起)](https://www.tmuh.org.tw/team/team/04/04/040029)
 * **高階諮詢**：[敏盛哈佛健診診所](https://www.e-ms.com.tw/)
 * **商務合作**：[填寫合作洽詢表單](https://forms.gle/A51KtVUcTwMXAvTy8)
 * **學術與技術**：[Github](https://github.com/ymsbio) ｜ [Resume](https://github.com/ymsbio)
