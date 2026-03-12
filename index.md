@@ -10,6 +10,7 @@ read_time: false
 <br>
 **許鈺敏 醫師 (Dr. Yu Min Syu, MD, MSc)**
 <br>
+<br>
 *臺北醫學大學附設醫院 兒童內分泌科主治醫師 ｜ 
 <br>
 敏盛基因體中心 副主任*
@@ -58,7 +59,7 @@ read_time: false
 ---
 
 ## 🌟 明星系列：流言終結者 (MythBusters)
-*這是診間最受家長歡迎的系列，讓我們用數據與實證，打破生長的恐懼。*
+*這是診間最多家長詢問的迷思系列，讓我們用數據與實證，打破生長的恐懼。*
 
 * [**一張圖破解性早熟飲食迷思**](https://www.facebook.com/grow180/posts/pfbid0Tg2eJYyfagKgkPUFRCUYwfpL6fpd28FmPJDDnLqxXxcsvGrG7m5CqjUqoXaubSqLl)
 * [豆漿有雌激素嗎？到底能不能喝？](https://www.facebook.com/grow180/posts/pfbid0ZUB7xdMbryfDoRWehLXDdPAUZt4PnFUHW1rUjnisq4NbfTNVZ4BBGUwC7SaCMhXZl)
