@@ -2,7 +2,7 @@
 title: FB衛教文章總彙整 ｜ Pregrowth FB資料庫
 
 ---
-# 📚 衛教文章總彙整：實證醫學FB智庫
+
 <br>
 > 「知識，是消除成長焦慮最好的解藥。」<br>
 *本頁面完整收錄許鈺敏醫師歷年於 Facebook 分享之專業衛教內容。*
@@ -12,11 +12,9 @@ title: FB衛教文章總彙整 ｜ Pregrowth FB資料庫
 
 ---
 
-<br>
 
 ### 許醫師FB專頁: (https://www.facebook.com/grow180/)
 
-<br>
 
 ---
 
