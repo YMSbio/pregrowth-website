@@ -39,8 +39,8 @@ read_time: false
 
 ## 🎥 媒體曝光與企業合作 (Media & Corporate Collaborations)
 
-具備豐富的跨界合作、影音拍攝與直播經驗，善於將複雜的醫療與基因知識，轉化為大眾易懂的精準衛教。誠摯歡迎各界品牌、媒體與學術單位進行產學合作、衛教代言或專題演講。
-👉 **[點擊此處填寫商務與演講邀約表單](https://forms.gle/A51KtVUcTwMXAvTy8)**
+具備豐富的跨界合作、影音拍攝與直播經驗，善於將複雜的醫療與基因知識，轉化為大眾易懂的精準衛教。誠摯歡迎各界品牌、媒體與學術單位進行產學合作、衛教代言或專題演講。<br>
+👉 **[若有演講邀約或商務合作需求請見表單](https://forms.gle/A51KtVUcTwMXAvTy8)**
 
 ### 🤝 企業品牌合作與代言
 * **台灣輝瑞大藥廠 (Pfizer)**：受邀拍攝「成長衛教特輯」 ([👉 點擊觀看影片](https://youtu.be/jaDQ5oNE5ls?si=mefbBehVs94VayqP))
@@ -74,7 +74,18 @@ read_time: false
 **【教材與專欄】**
 * 翰林出版 112年健康與體育教材手冊《青少年糖攝取超標恐將造成性早熟？》
 * 親子天下、媽媽寶寶、嬰兒與母親、聯合報、自由時報等主流媒體數十篇衛教專欄。
+* [個人親子天下專欄](https://premium.parenting.com.tw/author/303)
 * 《鏡週刊》2023青春成長專題專訪、《PinMed》嬰兒異位性皮膚炎專訪。
+
+**【學術發表】**
+* 1.	Syu, Y. M., Lee, I. C., Lu, J. F., Hung, P. L., Hong, S. Y., Yang, M. T., Liang, J. S.*(2025). Insights into clinical phenotypes and treatment responses in a Small cohort of Taiwanese patients with SCN1A variants: A Preliminary study. Pediatr Neonatol, 66(3):223-229. https://doi.org/10.1016/j.pedneo.2024.03.013
+* 2.	Syu, Y. M.*, Tung, C. Y., Chang, Y. Y., Liou, Y. J., Yang, S. C. (2025). P735: Machine learning-guided GWAS in the Taiwan biobank reveals novel height-associated genes with possible epistatic interactions. Genetics in Medicine Open, 3:103104. https://doi.org/10.1016/j.gimo.2025.103104.
+* 3.	Syu, Y. M., Lee, C. L., Chuang, C. K., Chiu, H. C., Chang, Y. H., Lin, H. Y.*, & Lin, S. P.* (2022). Functional Independence of Taiwanese Children with Osteogenesis Imperfecta. Journal of personalized medicine, 12(8), 1205. https://doi.org/10.3390/jpm12081205
+* 4.	Syu, Y. M., Lee, H. C., Chang, J. H., Lee, C. L., Chuang, C. K., Chiu, H. C., Chang, Y. H., Lin, H. Y.*, & Lin, S. P.* (2022). Rapid Weight Loss and Severe Failure to Thrive Mimicking Lipodystrophy Syndrome in a 1-Year-Old Taiwanese Girl with Costello Syndrome. Children (Basel, Switzerland), 9(6), 905. https://doi.org/10.3390/children9060905
+* 5.	Syu, Y. M., Ma, J. Y., Ou, T. H., Lee, C. L., Lin, H. Y., Lin, S. P., Lee, C. J.*, Chen, C. P.* De Novo Mosaic 6p23-p25.3 Tetrasomy Caused by a Small Supernumerary Marker Chromosome Presenting Trisomy Distal 6p Phenotype: A Case Report and Literature Review. Diagnostics 2022, 12, 2306. https://doi.org/10.3390/diagnostics12102306
+* 6.	Lee, C. L., Chuang, C. K., Syu, Y. M., Chiu, H. C., Tu, Y. R., Lo, Y. T., Chang, Y. H., Lin, H. Y.*, Lin, S. P.* Efficacy of Intravenous Elosulfase Alfa for Mucopolysaccharidosis Type IVA: A Systematic Review and Meta-Analysis. J. Pers. Med. 2022, 12, 1338. https://doi.org/10.3390/jpm12081338 
+* 7.	Lee, C. L., Lin, S. M., Chen, M. R., Chuang, C. K., Syu, Y. M., Chiu, H. C., Tu, R. Y., Lo, Y. T., Chang, Y. H., Lin, H. Y.*, & Lin, S. P.* (2022). Long-Term Cardiovascular Findings in Williams Syndrome: A Single Medical Center Experience in Taiwan. Journal of personalized medicine, 12(5), 817. https://doi.org/10.3390/jpm12050817
+
 
 ---
 
