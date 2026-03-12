@@ -1,23 +1,25 @@
 # 網站基本設定
-title: "許鈺敏 醫師 (Dr. Yu Min Syu, MD, MSc) 臺北醫學大學附設醫院 兒童內分泌科主治醫師 ｜ 敏盛基因體中心 副主任"
+title: "許鈺敏 醫師 | 兒童內分泌與精準醫療"
 description: "「在追求公分數之前，先用數據與基因，為孩子確認健康的效益。」"
 url: "https://YMSbio.github.io" 
 baseurl: "/pregrowth-website"
 
-# 載入 Minimal Mistakes 主題 (這是最關鍵的一行)
+# 載入 Minimal Mistakes 主題與必要外掛 (這行加了 plugins 就不會當機了)
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "air" # "air" 是一種極簡白色的醫療科技風配色
+minimal_mistakes_skin: "air"
+plugins:
+  - jekyll-include-cache
 
-# 左側個人檔案設定 (這會出現在左邊欄位)
+# 左側個人檔案設定
 author:
   name: "許鈺敏 醫師"
-  avatar: "/Gemini_Generated_Image_ppecwzppecwzppec.png" # 之後把妳的白袍照上傳到這個資料夾
-  bio: "小兒遺傳內分泌專科 ｜ 資料科學與大數據"
+  avatar: "/Gemini_Generated_Image_ppecwzppecwzppec.png"
+  bio: "小兒內分泌專科 ｜ 資料科學與大數據"
   location: "臺北醫學大學附設醫院"
   links:
     - label: "商務表單"
       icon: "fas fa-fw fa-envelope"
-      url: "https://forms.gle/A51KtVUcTwMXAvTy8" # 妳剛建好的表單
+      url: "https://forms.gle/A51KtVUcTwMXAvTy8"
 
 # 啟用導覽列
 defaults:
@@ -26,4 +28,4 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true # 讓每一頁左邊都固定顯示妳的頭像與簡介
+      author_profile: true
