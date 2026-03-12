@@ -5,10 +5,13 @@ description: "「在追求公分數之前，先用數據與基因，為孩子確
 #baseurl: "/pregrowth-website"
 
 # 載入 Minimal Mistakes 主題與必要外掛 (這行加了 plugins 就不會當機了)
+# 載入 Minimal Mistakes 主題與必要外掛
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "air"
 plugins:
   - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # 左側個人檔案設定
 author:
@@ -26,7 +29,7 @@ author:
     - label: "親子天下專欄"
       icon: "fas fa-fw fa-pen-nib"
       url: "https://premium.parenting.com.tw/author/303"
-    - label: "商務表單"
+    - label: "商務或演講邀請"
       icon: "fas fa-fw fa-envelope"
       url: "https://forms.gle/A51KtVUcTwMXAvTy8"
 
