@@ -1,21 +1,23 @@
 ---
 
-title: Pregrowth ｜ 成長之前的精準藍圖 - 許鈺敏醫師
-description: 結合內分泌學與基因體學的兒童成長專業醫師。
+title: Pregrowth ｜ 成長之前的精準藍圖
+description: 結合內分泌學與基因體學的兒童成長專業醫師 - 許鈺敏醫師。
 author_profile: true
 read_time: false
 
 ---
 
-# 🧬 Pregrowth ｜ 成長之前的精準藍圖
 <br>
 **許鈺敏 醫師 (Dr. Yu Min Syu, MD, MSc)**
 <br>
-*臺北醫學大學附設醫院 兒童內分泌科主治醫師 ｜ 敏盛基因體中心 副主任*
+*臺北醫學大學附設醫院 兒童內分泌科主治醫師 ｜ 
 <br>
-
+敏盛基因體中心 副主任*
+<br>
+<br>
 > 「在追求公分數之前，先用數據與基因，為孩子精算一生的健康效益。」
 <br>
+
 ---
 
 ## 📌 快速導覽 (Navigation)
