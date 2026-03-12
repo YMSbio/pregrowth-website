@@ -2,9 +2,9 @@
 title: FB衛教文章總彙整 ｜ Pregrowth FB資料庫
 
 ---
-# 📚 衛教文章總彙整：實證醫學FB智庫 (Full Archive)
+# 📚 衛教文章總彙整：實證醫學FB智庫
 <br>
-
+> 「知識，是消除成長焦慮最好的解藥。」
 *本頁面完整收錄許鈺敏醫師歷年於 Facebook 分享之專業衛教內容。*
 
 <br>
@@ -21,13 +21,17 @@ title: FB衛教文章總彙整 ｜ Pregrowth FB資料庫
 
 ---
 
-## 📂 1. 流言終結者系列 (性早熟與飲食闢謠)
+* 目錄導覽
+{:toc}
+
+---
+
+## 📂 1. 流言終結者系列 (性早熟與飲食闢謠) {#mythbusters-full}
 
 <br>
 
 *關於性早熟與飲食，總是有太多的流言傳說讓大家焦慮，讓我們用實證醫學與科學研究，解決診間最常見的焦慮。*
 
-<br>
 <br>
 
 * [【總論】一張圖破解性早熟飲食迷思](https://www.facebook.com/grow180/posts/pfbid0Tg2eJYyfagKgkPUFRCUYwfpL6fpd28FmPJDDnLqxXxcsvGrG7m5CqjUqoXaubSqLl)
@@ -47,13 +51,12 @@ title: FB衛教文章總彙整 ｜ Pregrowth FB資料庫
 
 ---
 
-## 📂 2. 成長營養劃重點 (長得高的孩子這樣吃)
+## 📂 2. 成長營養劃重點 (長得高的孩子這樣吃) {#nutrition}
 
 <br>
 
 *You are what you eat. 對孩子來說也是一樣的，飲食會影響孩子的成長與未來，從醫學角度看飲食與生長的長遠效益。*
 
-<br>
 <br>
 
 * [Ep1. 飲食指標分數，你及格了嗎？](https://www.facebook.com/grow180/posts/pfbid0J3eSkKF4Ri32PcQtfbWsb8NNyvdSzJx3yJcghwMfGCQVvWQRp9Q3CTV4H8EXnehul)
@@ -71,13 +74,12 @@ title: FB衛教文章總彙整 ｜ Pregrowth FB資料庫
 
 ---
 
-## 📂 3. 精準醫療：基因、骨齡與激素
+## 📂 3. 精準醫療：基因、骨齡與激素 {#precision-med}
 
 <br>
 
-*遺傳學與兒童內分泌的核心領域，我們用科學數據輔助決策，也要理解這些疾病如何治療，有什麼重點。*
+*遺傳學與兒童內分泌的核心領域，在追求公分數之前，先了解決定身高的底層邏輯，用科學數據輔助決策，也要理解這些疾病如何治療，有什麼重點。*
 
-<br>
 <br>
 
 * [不能抽血告訴我長多高嗎？決定身高的基因](https://www.facebook.com/grow180/posts/pfbid02avo4m4nkLGa5T3nCFU6KS1r3uW8zdk4HVk389MpeTLJAjTU8thtY3zCnKyc6qKPel)
@@ -95,13 +97,12 @@ title: FB衛教文章總彙整 ｜ Pregrowth FB資料庫
 
 ---
 
-## 📂 4. 性早熟深度衛教與青少年發展
+## 📂 4. 性早熟深度衛教與青少年發展 {#psychology}
 
 <br>
 
 *發現孩子好像青春期了，應該怎麼辦？先認知青春期發育是什麼，以及怎麼處理，讓我們順利陪伴孩子跨越青春期，提供必要的身心支持。*
 
-<br>
 <br>
 
 * [九歲小女孩乳房發育還會痛？淺談乳房早熟](https://www.facebook.com/grow180/posts/pfbid0bpzsDATBXXV1bwNkgZGEYsgBXNR8dCFG7oWULdF7KfmXxgSWKpotNn4rcTZqwtxSl)
@@ -118,12 +119,11 @@ title: FB衛教文章總彙整 ｜ Pregrowth FB資料庫
 
 ---
 
-## 📂 5. 門診準備與生活須知
+## 📂 5. 門診準備與生活須知 {#outside-clinic}
 
 <br>
 
 *實用的診間前哨站，以及其他的兒童衛教。*
-<br>
 <br>
 
 * [掛不到門診？在門診前妳可以做的準備](https://www.facebook.com/grow180/posts/pfbid0349D4SDyS4MBxF2Zk1s8A4nmgH45XMg6qEHUdPSE4oxpDkeofAsszsgzntdM14dYsl)
@@ -137,5 +137,8 @@ title: FB衛教文章總彙整 ｜ Pregrowth FB資料庫
 <br>
 
 ---
+
+> 💡 **對孩子的狀況還有困惑嗎？**
+> 您可以透過 [臺北醫學大學附設醫院 (4/1起)](https://www.tmuh.org.tw/team/team/04/04/040029)預約我的門診，或是透過 [哈佛健診特約諮詢](https://www.hvc.com.tw/zh-tw/service/person/question#gsc.tab=0)預約保留更多時間的諮詢特診。
 
 [🏠 回到 Pregrowth 首頁](index.md)
