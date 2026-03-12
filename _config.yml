@@ -1,8 +1,8 @@
 # 網站基本設定
 title: "許鈺敏 醫師 | 兒童內分泌與精準醫療"
 description: "「在追求公分數之前，先用數據與基因，為孩子確認健康的效益。」"
-url: "https://ymsbio.github.io"
-baseurl: "/pregrowth-website"
+#url: "https://ymsbio.github.io"
+#baseurl: "/pregrowth-website"
 
 # 載入 Minimal Mistakes 主題與必要外掛 (這行加了 plugins 就不會當機了)
 remote_theme: "mmistakes/minimal-mistakes"
