@@ -1,6 +1,10 @@
 ---
+
 title: Pregrowth ｜ 成長之前的精準藍圖 - 許鈺敏醫師
 description: 結合內分泌學與基因體學的兒童成長專業醫師。
+author_profile: true
+read_time: false
+
 ---
 
 # 🧬 Pregrowth ｜ 成長之前的精準藍圖
