@@ -24,7 +24,7 @@ read_time: false
 ## 📌 快速導覽 (Navigation)
 * [個人簡歷 (CV)](#cv)
 * [重點迷思破除：流言終結者](#mythbusters)
-* [FB衛教文章彙整 (Full Archive)](#archive)
+* [FB衛教文章彙整](#archive)
 * [商務合作與門診預約](#contact)
 
 ---
@@ -49,6 +49,7 @@ read_time: false
 * **醫學演講：** 受邀於各大學校/公家單位/科技公司分享兒童與成長內分泌知識。
 * **媒體採訪：** 針對兒童生長發育迷思、環境荷爾蒙等議題接受主流媒體採訪。
 * **專書出版：** [《長高不長胖：兒童成長專家教你打造身高衝刺基礎與健康體態成長指南》](https://reurl.cc/jQbX9n)
+
 ---
 
 ## 🌟 重點系列：流言終結者 (MythBusters) {#mythbusters}
@@ -58,7 +59,7 @@ read_time: false
 * [豆漿有雌激素嗎？到底能不能喝？](https://www.facebook.com/grow180/posts/pfbid0ZUB7xdMbryfDoRWehLXDdPAUZt4PnFUHW1rUjnisq4NbfTNVZ4BBGUwC7SaCMhXZl)
 * [山藥到底有沒有植物性雌激素？](https://www.facebook.com/grow180/posts/pfbid02qgnRBaQGtknAPgTXUjtGVPj5kCBTKs4LSL9VvGcSQaT1Rvkhk4r6Tbms5vKWNinHl)
 * [使用精油會性早熟嗎？](https://www.facebook.com/grow180/posts/pfbid0RzBDJxjbm6iXZdab4PRwQQ6GYDKXc5TZoPk7XkGCAPTkpfCppd8ahKzRM6EJt4W8l)
-* [**👉 點此進入：查看完整 10 集流言終結者清單**](FBarchive.md#📂-1.流言終結者系列(性早熟與飲食闢謠))
+* [**👉 點此進入：查看完整 10 集流言終結者清單**](/FBarchive.html#mythbusters-full)
 
 ---
 
@@ -80,7 +81,7 @@ read_time: false
 * **高階諮詢**：[敏盛哈佛健診診所](https://www.e-ms.com.tw/)
 * **商務合作**：[填寫合作洽詢表單](https://forms.gle/A51KtVUcTwMXAvTy8)
 * **學術與技術**：[Github](https://github.com/ymsbio) ｜ [Resume](https://github.com/ymsbio)
-* **一站式個人網頁**: [Linktree](linktr.ee/dr180)
+* **一站式個人網頁**: [Linktree](https://linktr.ee/dr180)
 
 ---
 © 2026 Dr. Yu Min Syu. All rights reserved.
