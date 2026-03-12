@@ -2,9 +2,9 @@
 main:
   - title: "👨‍⚕️ 關於許醫師"
     url: /
-  - title: "🏥 門診與高階諮詢"
-    url: /clinic/
+  - title: "🏥 北醫門診"
+    url: "https://www.tmuh.org.tw/team/team/A04F/A04F/040029"
   - title: "💡 粉專文章彙整資料庫"
-    url: /FBarchive.html/
+    url: "http://www.pregrowth.com.tw/FBarchive.html"
   - title: "💼 商務與產學合作"
     url: "https://forms.gle/A51KtVUcTwMXAvTy8"
