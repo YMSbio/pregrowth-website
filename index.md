@@ -29,7 +29,7 @@ read_time: false
 
 ---
 
-## 👨‍⚕️ 個人簡歷 (CV){#cv}
+## 👨‍⚕️ 個人簡歷 (CV) {#cv}
 * ### **臨床專業**
 * **臺北醫學大學附設醫院** 兒童內分泌與遺傳 主治醫師 (2026.04-)
 * **敏盛基因體中心** 副主任
@@ -51,7 +51,7 @@ read_time: false
 
 ---
 
-## 🌟 明星系列：流言終結者 (MythBusters){#mythbusters}
+## 🌟 明星系列：流言終結者 (MythBusters) {#mythbusters}
 *這是診間最多家長詢問的迷思系列，讓我們用數據與實證，打破生長的恐懼。*
 
 * [**一張圖破解性早熟飲食迷思**](https://www.facebook.com/grow180/posts/pfbid0Tg2eJYyfagKgkPUFRCUYwfpL6fpd28FmPJDDnLqxXxcsvGrG7m5CqjUqoXaubSqLl)
@@ -62,7 +62,7 @@ read_time: false
 
 ---
 
-## 💡 衛教智庫 ｜ 實證醫學處方箋{#archive}
+## 💡 衛教智庫 ｜ 實證醫學處方箋 {#archive}
 *我將文章重新分類，讓我們從對孩子的「生命效益」的角度看待成長。*
 
 * **【精算成長營養】**：[飲食指標分數，你及格了嗎？](https://www.facebook.com/grow180/posts/pfbid0J3eSkKF4Ri32PcQtfbWsb8NNyvdSzJx3yJcghwMfGCQVvWQRp9Q3CTV4H8EXnehul) ｜ [吃對蛋白質，長高不早熟](https://www.facebook.com/grow180/posts/pfbid036QQ3vmvDTQtqycVHxZjfJuKXyNFKydYT1LQuqgLnN9tpJrtBkGX22N3B5xpQFnrKl)
@@ -89,9 +89,9 @@ read_time: false
 
 ---
 
-## 🤝 聯繫與諮詢{#contact}
+## 🤝 聯繫與諮詢 {#contact}
 
-* **臨床門診**：[臺北醫學大學附設醫院 (4/1起)](https://www.tmch.org.tw/)
+* **臨床門診**：[臺北醫學大學附設醫院 (4/1起)]((https://www.tmuh.org.tw/team/team/04/04/040029)
 * **高階諮詢**：[敏盛哈佛健診診所](https://www.e-ms.com.tw/)
 * **商務合作**：[填寫合作洽詢表單](https://forms.gle/A51KtVUcTwMXAvTy8)
 * **學術與技術**：[Github](https://github.com/ymsbio) ｜ [Resume](https://github.com/ymsbio)
