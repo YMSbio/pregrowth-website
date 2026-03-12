@@ -1,9 +1,7 @@
 # 左側主選單架構
 main:
   - title: "👨‍⚕️ 關於許醫師"
-    url: /
-  - title: "🏥 北醫門診"
-    url: "https://www.tmuh.org.tw/team/team/A04F/A04F/040029"
+    url: "http://www.pregrowth.com.tw/AboutMe.html"
   - title: "💡 粉專文章彙整資料庫"
     url: "http://www.pregrowth.com.tw/FBarchive.html"
   - title: "💼 商務與產學合作"
